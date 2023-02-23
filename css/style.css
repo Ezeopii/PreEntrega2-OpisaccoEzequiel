@@ -114,6 +114,15 @@ a{
     text-decoration: none;
     color: black;
 }
+.nav-link:hover {
+    color: #C8EAF4;
+    font-size: 14px;
+  }
+
+  .nav-link{
+    text-decoration: none;
+    color: black;
+}
 
 .promo {
     margin-top: 15%;
